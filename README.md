@@ -6,4 +6,4 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce nisi.C'est super
 
 vive le jambon
 
-et le saucisson# De toute facon dans le cohcon tout est bon
+et le saucisson# De toute facon dans le cochon tout est bon
